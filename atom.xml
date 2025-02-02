@@ -6,7 +6,7 @@
   <link href="https://changhongh.github.io/atom.xml" rel="self"/>
   
   <link href="https://changhongh.github.io/"/>
-  <updated>2025-02-02T13:21:35.067Z</updated>
+  <updated>2025-02-02T13:36:35.200Z</updated>
   <id>https://changhongh.github.io/</id>
   
   <author>
@@ -21,15 +21,19 @@
     <link href="https://changhongh.github.io/2025/02/02/hello/"/>
     <id>https://changhongh.github.io/2025/02/02/hello/</id>
     <published>2025-02-02T11:38:22.000Z</published>
-    <updated>2025-02-02T13:21:35.067Z</updated>
+    <updated>2025-02-02T13:36:35.200Z</updated>
     
-    <content type="html"><![CDATA[<p>about</p>]]></content>
+    <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>Personal Homepage</title>  <style>    body {      font-family: Arial, sans-serif;      line-height: 1.6;      margin: 20px;    }    h1, h2, h3 {      color: #333;    }    .scrollable-container {      height: 300px;      overflow-y: auto;      border: 1px solid #ccc;      padding: 10px;      margin-bottom: 20px;    }    ul {      list-style-type: none;      padding: 0;    }    li {      margin-bottom: 10px;    }  </style></head><body>  <h1>About Me</h1>  <p>I am a Postdoctoral Researcher at the Center for Project-Based Learning (PBL) D-ITET, ETH Zürich, Switzerland, working with PD Dr. Michele Magno. Previously, I received my Ph.D. degree from the State Key Laboratory of Complex & Critical Software Environment (SKLCCSE), Beihang University, supervised by Prof. Wei Li and Prof. Xianglong Liu. I obtained my B.E. degree from the School of Computer Science and Engineering (SCSE), Beihang University. I interned at Microsoft Research Asia, ByteDance AI Lab, and Tencent WeChat.</p>  <p>My research interest broadly includes efficient deep learning. Specifically, I focus on deep model compression (e.g., network binarization, quantization, and distillation), efficient generative models (e.g., efficient large language models and diffusion models), neuromorphic computing (e.g., spiking neural network), hardware acceleration (e.g., hardware-aware architecture search), etc. I am/was an Area Chair for BMVC'2024, AISTATS'2025, and IJCNN'2025, a Program Committee member for ICML'2023-2024, NeurIPS'2023-2024, ICLR'2024-2025, CVPR'2023-2025, ICCV'2023, ECCV'2024, etc., and an Organizer or Challenge Chair for workshops at CVPR'2022-2024, AAAI'2022-2023, etc.</p>  <h2>News</h2>  <div class="scrollable-container">    <ul>      <li><strong>2025-01</strong>: Two papers are accepted by ICLR 2025.</li>      <li><strong>2025-01</strong>: One oral paper is accepted by WWW 2025.</li>      <li><strong>2024-12</strong>: Two oral papers are accepted by AAAI 2025.</li>      <li><strong>2024-12</strong>: I am serving as an Area Chair for IJCNN 2025.</li>      <li><strong>2024-11</strong>: I obtain the CSIG 2024 Outstanding PhD Thesis Award (10 people nationwide).</li>      <li><strong>2024-10</strong>: I am serving as an Area Chair for AISTATS 2025.</li>      <li><strong>2024-09</strong>: Four (one spotlight) papers and one workshop paper are accepted by NeurIPS 2024.</li>    </ul>  </div></body></html>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;about&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot;&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+  </summary>
       
     
     
