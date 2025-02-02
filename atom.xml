@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>ChanghongH</title>
   
   
   <link href="https://changhongh.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://changhongh.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Changhong He</name>
     
   </author>
   
