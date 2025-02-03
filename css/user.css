@@ -58,3 +58,32 @@
 .publication-right {
   flex: 1;
 }
+.sidebar {
+  width: 300px; /* 增加宽度 */
+  padding: 20px; /* 增加内边距 */
+  background-color: #f9f9f9; /* 背景颜色 */
+  border-right: 1px solid #ccc; /* 右边框 */
+}
+.author-discrip h3 {
+  font-size: 2rem; /* 增加字体大小 */
+  color: #333; /* 字体颜色 */
+  margin-bottom: 10px; /* 增加下边距 */
+}
+.author-discrip p {
+  font-size: 1.4rem; /* 增加字体大小 */
+  color: #666; /* 字体颜色 */
+  line-height: 1.6; /* 行高 */
+}
+.author-links a {
+  font-size: 1.2rem; /* 增加字体大小 */
+  color: #007bff; /* 链接颜色 */
+  text-decoration: none; /* 去掉下划线 */
+}
+.author-links a:hover {
+  text-decoration: underline; /* 鼠标悬停时显示下划线 */
+}
+.author-avatar img {
+  width: 120px; /* 增加头像宽度 */
+  height: 120px; /* 增加头像高度 */
+  border-radius: 60px; /* 保持圆形 */
+}
