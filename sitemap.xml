@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://changhongh.github.io/Others/index.html</loc>
+    
+    <lastmod>2025-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://changhongh.github.io/2025/02/02/hello/</loc>
     
     <lastmod>2025-02-03</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://changhongh.github.io/Service/index.html</loc>
-    
-    <lastmod>2025-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changhongh.github.io/Others/index.html</loc>
     
     <lastmod>2025-02-03</lastmod>
     
