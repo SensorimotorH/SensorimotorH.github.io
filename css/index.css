@@ -51,8 +51,8 @@
 .publication-image {
   max-width: 100%; /* 图片最大宽度为容器宽度 */
   height: auto; /* 高度自动调整 */
-  width: 300px; /* 设置图片的固定宽度 */
-  height: 200px; /* 设置图片的固定高度 */
+  width: 150px; /* 设置图片的固定宽度 */
+  height: 100px; /* 设置图片的固定高度 */
   object-fit: cover; /* 确保图片按比例缩放 */
 }
 .publication-right {
