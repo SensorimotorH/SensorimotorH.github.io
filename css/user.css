@@ -23,3 +23,35 @@
   color: #333; /* 标题字体颜色 */
   margin-top: 5px; /* 标题与图片的间隔 */
 }
+/* 切换按钮样式 */
+#theme-toggle-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  color: #333; /* 白天模式的颜色 */
+}
+/* 白天模式图标 */
+#theme-toggle-btn .fa-moon {
+  display: block;
+}
+/* 黑夜模式图标 */
+#theme-toggle-btn .fa-sun {
+  display: none;
+}
+/* 黑夜模式下的按钮样式 */
+.night-mode #theme-toggle-btn {
+  color: #f0f0f0; /* 黑夜模式的颜色 */
+}
+/* 黑夜模式下的太阳图标 */
+.night-mode #theme-toggle-btn .fa-moon {
+  display: none;
+}
+/* 黑夜模式下的月亮图标 */
+.night-mode #theme-toggle-btn .fa-sun {
+  display: block;
+}

@@ -102,3 +102,27 @@ $(function () {
     });
 
 })
+
+// 获取按钮元素
+const themeToggleButton = document.getElementById('theme-toggle-btn');
+const body = document.body;
+
+// 判断本地存储中是否有用户的主题偏好
+const savedMode = localStorage.getItem('theme');
+if (savedMode) {
+  body.className = savedMode; // 设置页面模式
+}
+
+// 切换模式函数
+function toggleTheme() {
+  if (body.classList.contains('day-mode')) {
+    body.className = 'night-mode';  // 切换到黑夜模式
+    localStorage.setItem('theme', 'night-mode'); // 保存到本地存储
+  } else {
+    body.className = 'day-mode';   // 切换到白天模式
+    localStorage.setItem('theme', 'day-mode'); // 保存到本地存储
+  }
+}
+
+// 为按钮添加点击事件
+themeToggleButton.addEventListener('click', toggleTheme);

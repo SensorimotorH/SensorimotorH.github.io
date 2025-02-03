@@ -23,6 +23,32 @@
   color: #333; /* 标题字体颜色 */
   margin-top: 5px; /* 标题与图片的间隔 */
 }
+#theme-toggle-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  color: #333; /* 白天模式的颜色 */
+}
+#theme-toggle-btn .fa-moon {
+  display: block;
+}
+#theme-toggle-btn .fa-sun {
+  display: none;
+}
+.night-mode #theme-toggle-btn {
+  color: #f0f0f0; /* 黑夜模式的颜色 */
+}
+.night-mode #theme-toggle-btn .fa-moon {
+  display: none;
+}
+.night-mode #theme-toggle-btn .fa-sun {
+  display: block;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
