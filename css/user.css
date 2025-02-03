@@ -1,8 +1,8 @@
 .photo-gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
+  gap: 15px;
+  justify-content: flex-start;
 }
 .photo-gallery img {
   max-width: 150px; /* 每张图片的最大宽度 */
