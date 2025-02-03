@@ -39,6 +39,7 @@
   align-items: center;
   justify-content: center;
   margin-right: 20px;
+  width: 10%; /* 设置左侧区域的宽度 */
 }
 .publication-badge {
   background-color: #800080;
@@ -48,8 +49,11 @@
   margin-bottom: 10px;
 }
 .publication-image {
-  max-width: 100%;
-  height: auto;
+  max-width: 100%; /* 图片最大宽度为容器宽度 */
+  height: auto; /* 高度自动调整 */
+  width: 300px; /* 设置图片的固定宽度 */
+  height: 200px; /* 设置图片的固定高度 */
+  object-fit: cover; /* 确保图片按比例缩放 */
 }
 .publication-right {
   flex: 1;
