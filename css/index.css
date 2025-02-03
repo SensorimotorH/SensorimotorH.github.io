@@ -32,7 +32,7 @@
   border: none;
   cursor: pointer;
   font-size: 24px;
-  color: #333; /* 白天模式的颜色 */
+  color: #333;
 }
 #theme-toggle-btn .fa-moon {
   display: block;
@@ -41,13 +41,23 @@
   display: none;
 }
 .night-mode #theme-toggle-btn {
-  color: #f0f0f0; /* 黑夜模式的颜色 */
+  color: #f0f0f0;
 }
 .night-mode #theme-toggle-btn .fa-moon {
   display: none;
 }
 .night-mode #theme-toggle-btn .fa-sun {
   display: block;
+}
+body {
+  background: #f8f9fa;
+  overflow: hidden;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 .page pre,
 .page .highlight {
