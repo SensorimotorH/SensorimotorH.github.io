@@ -39,7 +39,7 @@
   align-items: center;
   justify-content: center;
   margin-right: 20px;
-  width: 30%; /* 设置左侧区域的宽度 */
+  width: 25%; /* 设置左侧区域的宽度 */
 }
 .publication-badge {
   background-color: #800080;
