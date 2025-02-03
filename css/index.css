@@ -33,26 +33,26 @@
   border-radius: 5px;
   background-color: #f9f9f9;
 }
+.publication-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
 .publication-badge {
   background-color: #800080;
   color: #fff;
   padding: 5px 10px;
   border-radius: 3px;
-  margin-right: 15px;
-}
-.publication-details {
-  flex: 1;
-  margin-right: 20px;
+  margin-bottom: 10px;
 }
 .publication-image {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.publication-image img {
   max-width: 100%;
   height: auto;
+}
+.publication-right {
+  flex: 1;
 }
 .page pre,
 .page .highlight {
