@@ -17,3 +17,9 @@
 .photo-gallery img:hover {
   transform: scale(1.1); /* 鼠标悬停时放大 */
 }
+.photo-title {
+  text-align: center; /* 标题居中 */
+  font-size: 14px; /* 标题字体大小 */
+  color: #333; /* 标题字体颜色 */
+  margin-top: 5px; /* 标题与图片的间隔 */
+}
