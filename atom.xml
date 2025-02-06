@@ -6,7 +6,7 @@
   <link href="https://changhongh.github.io/atom.xml" rel="self"/>
   
   <link href="https://changhongh.github.io/"/>
-  <updated>2025-02-03T04:34:55.630Z</updated>
+  <updated>2025-02-02T11:28:48.000Z</updated>
   <id>https://changhongh.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://changhongh.github.io/2025/02/06/hello-world/"/>
+    <id>https://changhongh.github.io/2025/02/06/hello-world/</id>
+    <published>2025-02-06T09:05:47.665Z</published>
+    <updated>2025-02-02T11:28:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>hello</title>
     <link href="https://changhongh.github.io/2025/02/02/hello/"/>
     <id>https://changhongh.github.io/2025/02/02/hello/</id>
     <published>2025-02-02T11:38:22.000Z</published>
-    <updated>2025-02-03T04:34:55.630Z</updated>
+    <updated>2025-02-03T04:34:56.000Z</updated>
     
     <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>  <meta charset="UTF-8">  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <title>Websites</title>  <style>    body {      font-family: Arial, sans-serif;      line-height: 1.6;      margin: 20px;    }    h1, h2 {      color: #333;    }    .scrollable-container {      height: 350px;      overflow-y: auto;      border: 1px solid #ccc;      padding: 10px;      margin-bottom: 20px;    }    ul {      list-style-type: none;      padding: 0;    }    li {      margin-bottom: 10px;    }    .publication {      display: flex;      align-items: center;      margin-bottom: 15px; /* 减小块之间的间距 */      padding: 8px; /* 减小内边距 */      border: 1px solid #ccc;      border-radius: 5px;      background-color: #f9f9f9;    }    .publication-badge {      background-color: #800080;      color: white;      padding: 5px 10px;      border-radius: 3px;      margin-right: 10px; /* 减小徽章与内容之间的间距 */    }    .publication-details {      flex: 1;      margin-left: 10px; /* 减小内容与徽章之间的间距 */    }    .publication-details h3 {      font-size: 18px; /* 减小标题字体大小 */      margin: 0 0 4px; /* 减小标题与内容之间的间距 */    }    .publication-details p {      font-size: 14px; /* 减小内容字体大小 */      margin: 0 0 8px; /* 减小内容与链接之间的间距 */    }    .publication-links {      margin-top: 5px; /* 减小链接与内容之间的间距 */    }    .publication-links a {      margin-right: 10px;      text-decoration: none;      color: #333;      font-size: 14px; /* 减小链接字体大小 */    }    .publication-links a:hover {      text-decoration: underline;    }  </style></head><body>  <h1>About Me</h1>  <p>I am an undergraduate student at Ocean University of China and will graduate in June 2025. In September 2024, I was accepted by Beihang University as a master's candidate.</p>  <p>My undergraduate research was mainly focused on mechanical design in the field of robotics. In the future, I will focus on the field of machine learning (specifically, the application of machine learning in natural language processing and image processing), hoping to achieve good results.  </p><h1 id="News"><a href="#News" class="headerlink" title="News"></a>News</h1>  <div style="height: 220px; width: 90%; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">      <li><strong>2024-12</strong>: Outstanding graduate of Ocean University of China</li>      <li><strong>2024-12</strong>: Awarded the 2024 Undergraduate National Scholarship for the second time</li>      <li><strong>2024-09</strong>: First-class scholarship for two consecutive years</li>      <li><strong>2024-09</strong>: Outstanding undergraduate student for three consecutive years</li>      <li><strong>2024-01</strong>: Our work on the design and experiment of a new type of ocean buoy was accepted by the <strong>JMSE</strong></li>      <li><strong>2023-12</strong>: First Awarded the 2024 Undergraduate National Scholarship</li>      <li><strong>2023-12</strong>: First prize of National College Student Robot Competition</li>      <li><strong>2023-11</strong>: Shenzhen Cup Mathematical Modeling Challenge Second Prize (3/242)</li>      <li><strong>2023-08</strong>: College students intelligent car competition Shandong Province second prize.</li>  </div><h1 id="Selected-Publications"><a href="#Selected-Publications" class="headerlink" title="Selected Publications"></a>Selected Publications</h1><div class="publication">  <div class="publication-left">    <div class="publication-badge">JMSE</div>    <img src="/images/buoys.jpg" alt="Core Image" class="publication-image">  </div>  <div class="publication-right">    <h3>Development of a Mobile Buoy with Controllable Wings: Design, Dynamics Analysis and Experiments</h3>    <p>Haibo Wang, Junsi Chen, Zhanxia Feng, Guangchao Du, Yuze Li, Chao Tang, Yang Zhang ,    Changhong He and Zongyu Chang</p>    <p>Journal of Marine Science and Engineering, Published: 12 January 2024</p>    <div class="publication-links">      <a href="/pdf/Development of a Mobile Buoy with Controllable Wings.pdf" target="_blank">PDF</a>    </div>  </div></body></html>]]></content>
     
@@ -34,26 +54,6 @@
   &lt;meta charset=&quot;UTF-8&quot;&gt;
   &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
   </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://changhongh.github.io/2025/02/02/hello-world/"/>
-    <id>https://changhongh.github.io/2025/02/02/hello-world/</id>
-    <published>2025-02-02T11:28:47.274Z</published>
-    <updated>2025-02-02T11:28:47.275Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
