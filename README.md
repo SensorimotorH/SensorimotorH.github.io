@@ -1,9 +1,6 @@
 ````markdown
 # SensorimotorH.github.io
 
-![build](https://img.shields.io/github/actions/workflow/status/SensorimotorH/SensorimotorH.github.io/deploy.yml?branch=main&label=build)
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)
-
 个人学术主页，托管于 GitHub Pages，基于 Hexo + hexo-theme-academia 构建。  
 在线预览 ➜ <https://sensorimotorh.github.io/>
 
